@@ -3,27 +3,37 @@
     {
       "title": "Ocean Waves",
       "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/174731-852025141.mp4",
-      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/sounds/rain.mp3"
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
     },
     {
       "title": "Rain Window",
       "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/ocean.mp4",
-      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/sounds/rain.mp3"
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
     },
     {
       "title": "Floating Particles",
       "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/130494-747472651%20(1).mp4",
-      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/sounds/rain.mp3"
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
     },
     {
       "title": "Soft 4Gradient Flow",
       "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/particles..mp4",
-      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/sounds/rain.mp3"
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
     },
     {
       "title": "Gradient Flow",
       "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/79764-570718544.mp4",
-      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/sounds/rain.mp3"
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
+    },
+    {
+      "title": "Soft 5Gradient Flow",
+      "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/174731-852025141.mp4",
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
+    },
+    {
+      "title": "Soft Gradient Flow",
+      "video": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/videos/174731-852025141.mp4",
+      "sound": "https://raw.githubusercontent.com/mohamedmasaoudipro-bot/relax-app-assets/main/mp3/tomomi_kato-improvisation_007-loop-303493.mp3"
     }
   ]
 }
